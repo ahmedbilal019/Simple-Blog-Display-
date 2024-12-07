@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Top 10 Web Development Trends in 2024",
+    "author": "John Doe",
+    "date": "01-Dec-2024",
+    "content": "Stay ahead in the tech world by knowing the latest trends in web development, including AI integration, serverless architecture, and more.",
+    "tags": ["Web Development", "Trends", "Tech"]
+  },
+  {
+    "id": 2,
+    "title": "How to Master JavaScript in 30 Days",
+    "author": "Sarah Lee",
+    "date": "25-Nov-2024",
+    "content": "Learn the most effective strategies to improve your JavaScript skills quickly, from mastering ES6 features to building mini projects.",
+    "tags": ["JavaScript", "Learning", "Programming"]
+  },
+  {
+    "id": 3,
+    "title": "Understanding Flexbox and Grid in CSS",
+    "author": "Smith Harry",
+    "date": "05-Dec-2024",
+    "content": "Dive into the powerful layout tools in CSS and learn when to use Flexbox versus Grid for responsive designs.",
+    "tags": ["CSS", "Flexbox", "Grid", "Design"]
+  },
+  {
+    "id": 4,
+    "title": "Why React is Still Dominating Frontend Development",
+    "author": "Emily Carter",
+    "date": "20-Nov-2024",
+    "content": "React has been leading the frontend space for years. Explore the reasons behind its success and what the future holds for this library.",
+    "tags": ["React", "Frontend", "JavaScript"]
+  },
+  {
+    "id": 5,
+    "title": "The Ultimate Guide to Debugging Code",
+    "author": "Michael Scott",
+    "date": "15-Nov-2024",
+    "content": "Debugging is a critical skill for developers. Learn tips and tools to effectively debug your applications and save valuable time.",
+    "tags": ["Debugging", "Tips", "Development"]
+  }
+]
